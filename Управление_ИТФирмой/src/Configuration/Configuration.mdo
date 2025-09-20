@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="66c3046b-4994-47b3-adc0-2137a1b4d70c">
+  <name>Управление_ИТФирмой</name>
+  <synonym>
+    <key>ru</key>
+    <value>Управление ИТ-фирмой</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="41206dc4-1c7c-4e33-bd93-84ce896f88aa"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="fcc2e5db-dfe0-4915-9430-e4e2cceead9a"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="4bccf650-baa0-4041-b8af-8e1c72df77df"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="395bd188-fe0a-4571-99d1-b3407d42ce9c"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="dabb00f4-0c5f-434f-a617-34acbf068398"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="e025d6f3-979e-441a-8c6e-0c46ee779916"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="39495819-d3b1-4431-93b7-b24b2f0e15a7"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.27</compatibilityMode>
+  <languages uuid="d4fc0548-f6d1-4cc0-99d4-c302dc08c3c2">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Настройки</subsystems>
+  <functionalOptions>FunctionalOption.ВестиРасчетЗарплаты</functionalOptions>
+  <definedTypes>DefinedType.ДенежнаяСумма</definedTypes>
+  <commonCommands>CommonCommand.НастройкаПрограммы</commonCommands>
+  <constants>Constant.ВестиРасчетЗарплаты</constants>
+  <commonForms>CommonForm.НастройкаПрограммы</commonForms>
+  <catalogs>Catalog.Сотрудники</catalogs>
+</mdclass:Configuration>
