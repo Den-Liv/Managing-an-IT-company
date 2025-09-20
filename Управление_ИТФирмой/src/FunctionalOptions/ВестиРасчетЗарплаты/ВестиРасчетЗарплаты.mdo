@@ -7,7 +7,6 @@
   </synonym>
   <location>Constant.ВестиРасчетЗарплаты</location>
   <privilegedGetMode>true</privilegedGetMode>
-  <content>Constant.ВестиРасчетЗарплаты</content>
   <content>Catalog.Сотрудники.Attribute.Оклад</content>
   <content>Catalog.Сотрудники.Attribute.СтавкаЧаса</content>
 </mdclass:FunctionalOption>
