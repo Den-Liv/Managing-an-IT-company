@@ -1,4 +1,3 @@
-Название
 ![](https://github.com/Den-Liv/Managing-an-IT-company/blob/adfd1f3e19dcc123afeafb9bf68c62d4bb516bfb/logo.png)
 
 # Описание кофигурации 1С
