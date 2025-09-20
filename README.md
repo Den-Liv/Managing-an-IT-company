@@ -1,7 +1,7 @@
 Название
-# Управление ИТ-фирмой
+![](https://github.com/Den-Liv/Managing-an-IT-company/blob/adfd1f3e19dcc123afeafb9bf68c62d4bb516bfb/logo.png)
 
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+# Описание кофигурации 1С
 
 *Управление ИТ-фирмой* — дипломный проект.
 
