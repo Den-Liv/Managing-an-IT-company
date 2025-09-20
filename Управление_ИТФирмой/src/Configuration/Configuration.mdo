@@ -39,6 +39,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Настройки</subsystems>
+  <sessionParameters>SessionParameter.ТекущийСотрудник</sessionParameters>
   <functionalOptions>FunctionalOption.ВестиРасчетЗарплаты</functionalOptions>
   <definedTypes>DefinedType.ДенежнаяСумма</definedTypes>
   <commonCommands>CommonCommand.НастройкаПрограммы</commonCommands>
