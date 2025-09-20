@@ -46,4 +46,6 @@
   <constants>Constant.ВестиРасчетЗарплаты</constants>
   <commonForms>CommonForm.НастройкаПрограммы</commonForms>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <enums>Enum.Пол</enums>
+  <enums>Enum.ЮридическоеФизическоеЛицо</enums>
 </mdclass:Configuration>
