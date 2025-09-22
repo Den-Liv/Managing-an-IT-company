@@ -5,10 +5,10 @@
     <listType typeId="83ace613-1264-4a2e-a30c-763797125f29" valueTypeId="0b3fc199-0e3e-4072-b54d-b69c93912c91"/>
     <managerType typeId="895bbfea-f647-4acf-ac3c-0136d1785c65" valueTypeId="b5a1db7e-6547-4e8a-a098-948bc35d933e"/>
   </producedTypes>
-  <name>ЮридическоеФизическоеЛицо</name>
+  <name>ТипКонтрогента</name>
   <synonym>
     <key>ru</key>
-    <value>Юридическое физическое лицо</value>
+    <value>Тип контрогента</value>
   </synonym>
   <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>

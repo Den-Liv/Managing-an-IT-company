@@ -40,6 +40,9 @@
   </languages>
   <subsystems>Subsystem.Настройки</subsystems>
   <sessionParameters>SessionParameter.ТекущийСотрудник</sessionParameters>
+  <roles>Role.БазовыеПрава</roles>
+  <roles>Role.ПолныеПрава</roles>
+  <commonModules>CommonModule.РаботаСИНН</commonModules>
   <functionalOptions>FunctionalOption.ВестиРасчетЗарплаты</functionalOptions>
   <definedTypes>DefinedType.ДенежнаяСумма</definedTypes>
   <commonCommands>CommonCommand.НастройкаПрограммы</commonCommands>
@@ -48,5 +51,5 @@
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <enums>Enum.Пол</enums>
-  <enums>Enum.ЮридическоеФизическоеЛицо</enums>
+  <enums>Enum.ТипКонтрогента</enums>
 </mdclass:Configuration>

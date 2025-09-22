@@ -9,6 +9,6 @@
   <content>CommonCommand.НастройкаПрограммы</content>
   <content>Constant.ВестиРасчетЗарплаты</content>
   <content>CommonForm.НастройкаПрограммы</content>
-  <content>Enum.ЮридическоеФизическоеЛицо</content>
+  <content>Enum.ТипКонтрогента</content>
   <content>Enum.Пол</content>
 </mdclass:Subsystem>
